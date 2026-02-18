@@ -13,6 +13,7 @@ I'm passionate about building responsive digital solutions that solve real probl
 
 ## 🏆 Certifications & Achievements
 - **IBM AI Fundamentals Certificate** - Solid foundation in AI concepts, machine learning workflows, and ethical AI development
+- **Samsung Innovation Campus Certificates** - Python Programming Certificates and Artificial Intelligence Certficates
 - **Samsung Innovation Campus Graduate** - Advanced training in emerging technologies and practical application development
 
 ## 📌 Pinned Projects
