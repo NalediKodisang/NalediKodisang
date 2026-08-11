@@ -20,6 +20,7 @@ I'm passionate about building responsive digital solutions that solve real probl
 - **[Job Application Tracker](https://naledikodisang.github.io/Job-Application-Tracker/)** - JavaScript app helping job seekers manage applications
 - **[Gig Connect](https://github.com/NalediKodisang/gig-connect)** - Flutter mobile app connecting youth with local gigs
 - **[Portfolio Website](https://naledikodisang.github.io/Portfolio-Website/)** - My personal developer portfolio
+- **[Movie Review Website](https://movie-review-web-app-1.onrender.com/)** - Movie Review app  
 
 ## 📊 What I'm Working On
 - 🔭 Upgrading Job Tracker to full-stack with Python/Flask
