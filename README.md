@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Naledi Kodisang!
 
-🚀 **Junior Web & Software Developer** | Johannesburg, South Africa
+🚀 **Junior Web & AI Software Developer** | Johannesburg, South Africa
 
 I'm passionate about building responsive digital solutions that solve real problems—like youth unemployment and job search challenges. With a strong foundation in **AI fundamentals**, I'm excited about creating smarter, more intuitive applications.
 
@@ -20,7 +20,10 @@ I'm passionate about building responsive digital solutions that solve real probl
 - **[Job Application Tracker](https://naledikodisang.github.io/Job-Application-Tracker/)** - JavaScript app helping job seekers manage applications
 - **[Gig Connect](https://github.com/NalediKodisang/gig-connect)** - Flutter mobile app connecting youth with local gigs
 - **[Portfolio Website](https://naledikodisang.github.io/Portfolio-Website/)** - My personal developer portfolio
-- **[Movie Review Website](https://movie-review-web-app-1.onrender.com/)** - Movie Review app  
+- **[Movie Review Website](https://movie-review-web-app-1.onrender.com/)** - Movie Review app
+- **[Shop Assist app] (https://shop-assist-ai-demo.onrender.com)** - Fullstack AI customer support application built to simulate an intelligent e-commerce support assistant. It allows customers to communicate with an AI assistant, ask questions, and receive helpful responses about shopping and customer support.
+
+
 
 ## 📊 What I'm Working On
 - 🔭 Upgrading Job Tracker to full-stack with Python/Flask
