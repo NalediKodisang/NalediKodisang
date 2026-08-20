@@ -21,7 +21,7 @@ I'm passionate about building responsive digital solutions that solve real probl
 - **[Gig Connect](https://github.com/NalediKodisang/gig-connect)** - Flutter mobile app connecting youth with local gigs
 - **[Portfolio Website](https://naledikodisang.github.io/Portfolio-Website/)** - My personal developer portfolio
 - **[Movie Review Website](https://movie-review-web-app-1.onrender.com/)** - Movie Review app
-- **[Shop Assist app] (https://shop-assist-ai-demo.onrender.com)** - Fullstack AI customer support application built to simulate an intelligent e-commerce support assistant. It allows customers to communicate with an AI assistant, ask questions, and receive helpful responses about shopping and customer support.
+- **[Shop Assist app](https://shop-assist-ai-demo.onrender.com)** - Fullstack AI customer support application built to simulate an intelligent e-commerce support assistant. It allows customers to communicate with an AI assistant, ask questions, and receive helpful responses about shopping and customer support.
 
 
 
